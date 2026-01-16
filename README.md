@@ -81,9 +81,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <h3>Step 4: Install IIS Extensions & Visual C++</h3>
+
+- PHP Manager: PHPManagerForIIS_V1.5.0.msi
+- Rewrite Module: rewrite_amd64_en-US.msi
+- Visual C++ Redistributable: VC_redist.x86.exe
   
-From the “osTicket-Installation-Files” folder, install PHP Manager for IIS
-(PHPManagerForIIS_V1.5.0.msi)
+
 
 </p>
 <br />
