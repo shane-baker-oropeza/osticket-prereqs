@@ -134,7 +134,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+<br />
+
+<h2>Phase 4: osTicket Deployment</h2>
+</p>
+
+<h3>Step 7: Configure Web Directory</h3>
+  
+- Unzip osTicket-v1.15.8.zip.
+- Copy the upload folder and paste it into C:\inetpub\wwwroot.
+- Rename the folder from upload to osTicket.
+- Restart IIS.
 
 </p>
 <br />
