@@ -119,9 +119,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create the directory C:\PHP
-From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8
-(php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+
+<h3>Step 6: Install and Configure MySQL</h3>  
+
+- Run mysql-5.5.62-win32.msi.
+- Choose Typical setup.
+- Launch the Configuration Wizard after install.
+- Choose Standard Configuration.
+- Set Password to root (Username: root)
 </p>
 <br />
 
