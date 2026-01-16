@@ -25,9 +25,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Configuration File
 - OAuth2 Plugin
 
-<h2>Installation Steps</h2>
+<h2>Phase 1: Azure VM Provisioning</h2>
+</p>
+
+<h3>Step 1: Create the Virtual Machine</h3>
+
+- Image: Windows 10 Pro
+- Size: 4 vCPUs (Standard_D4s_v3 or similar)
+- VM Name: osticket-vm
+- Username: labuser
+- Password: osTicketPassword1!
+- Inbound Port Rules: Ensure RDP (3389) and HTTP (80) are allowed.
 
 <p>
+<br />  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
