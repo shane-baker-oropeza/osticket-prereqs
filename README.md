@@ -153,11 +153,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the “osTicket-Installation-Files” folder, install MySQL 5.5.62
-(mysql-5.5.62-win32.msi)
-- Typical Setup ->
-- Launch Configuration Wizard (after install) ->
-- Standard Configuration ->
+
+<h3>Step 8: Enable PHP Extensions</h3> 
+
+- In IIS Manager, navigate to Sites > Default Web Site > osTicket.
+- Open PHP Manager > Enable or disable an extension.
+- Enable the following: php_imap.dll, php_intl.dll, and php_opcache.dll
 </p>
 <br />
 
@@ -165,10 +166,14 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install osTicket v1.15.8
-- From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and
-copy the “upload” folder into “c:\inetpub\wwwroot”
-- Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+
+<h3>Step 9: Configure ost-config.php Permissions</h3>   
+
+- Navigate to C:\inetpub\wwwroot\osTicket\include\.
+- Rename ost-sampleconfig.php to ost-config.php.
+- Right-click ost-config.php > Properties > Security > Advanced.
+- Click Disable inheritance > Remove all inherited permissions.
+- Click Add > Select a principal > type "Everyone" > Give Full control
 
 </p>
 <br />
@@ -177,9 +182,17 @@ copy the “upload” folder into “c:\inetpub\wwwroot”
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Reload IIS (Open IIS, Stop and Start the server)
-Go to sites -> Default -> osTicket
-- On the right, click “Browse *:80”
+
+<h2>Phase 5: Database and Final Setup</h2>
+</p>
+
+<h3>Step 10: Create Database via HeidiSQL</h3> 
+
+
+- Install and open HeidiSQL.
+- Create a new session using root / root.
+- Right-click the session > Create new > Database.
+- Name the database osTicket
 </p>
 <br />
 
@@ -187,15 +200,16 @@ Go to sites -> Default -> osTicket
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Note that some extensions are not enabled
-- Go back to IIS, sites -> Default -> osTicket
-- Double-click PHP Manager
-- Click “Enable or disable an extension”
-- Enable: php_imap.dll
-- Enable: php_intl.dll
-- Enable: php_opcache.dll
-- Refresh the osTicket site in your browser, observe the changes
 
+<h3>Step 11: Run osTicket Web Installer</h3>   
+
+- Open a browser and go to http://localhost/osTicket.
+- Fill out the System Settings and Admin User info.
+- Under Database Settings, use:
+1.  MySQL Database: osTicket
+2.  MySQL Username: root
+3.  MySQL Password: root
+- Click Install Now
 </p>
 <br />
 
