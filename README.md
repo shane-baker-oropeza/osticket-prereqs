@@ -42,11 +42,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log into the VM with Remote Desktop
-Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it
-onto your desktop. The folder should be called “osTicket-Installation-Files”
-- We will use the files in this folder to install osTicket and some of the
-dependencies.
+<h2>Phase 2: Environment Preparation</h2>
+</p>
+
+<h3>Step 2: Remote Access and File Preparation</h3>
+
+
+- Connect to the VM using Remote Desktop Connection.
+- Download the osTicket-Installation-Files.zip within the VM.
+- Unzip the folder to your Desktop
 
 </p>
 <br />
