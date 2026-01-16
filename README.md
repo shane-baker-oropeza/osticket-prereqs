@@ -100,8 +100,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the “osTicket-Installation-Files” folder install the Rewrite Module
-(rewrite_amd64_en-US.msi)
+
+<h3>Step 5: Configure PHP 7.3.8</h3>  
+
+- Create a new directory at C:\PHP.
+- Unzip php-7.3.8-nts-Win32-VC15-x86.zip into C:\PHP.
+- Open IIS Manager as Administrator.
+- Select your server, open PHP Manager, and click Register new PHP version.
+- Select C:\PHP\php-cgi.exe.
+- Restart IIS (Select server in left pane > Restart in right pane)
+- From the “osTicket-Installation-Files” folder install the Rewrite Module
+  (rewrite_amd64_en-US.msi)
 
 </p>
 <br />
