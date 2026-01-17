@@ -354,4 +354,346 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+<h2>Phase 4: osTicket Deployment</h2>
+</p>
+
+<h3>Step 7: Configure Web Directory</h3>
+  
+- Unzip osTicket-v1.15.8.zip.
+- Copy the upload folder and paste it into C:\inetpub\wwwroot.
+- Rename the folder from upload to osTicket.
+- Restart IIS.
+
+</p>
+<br />
+
+<p>
+<img width="803" height="659" alt="Screenshot 2026-01-17 000801" src="https://github.com/user-attachments/assets/fc34d3ba-1ea6-4c3a-8abd-c7541a60aab9" />
+
+</p>
+
+<p>
+<img width="624" height="457" alt="Screenshot 2026-01-17 000813" src="https://github.com/user-attachments/assets/a293c3e3-c260-47ff-aa76-a9f3d2a28575" />
+
+</p>
+
+<p>
+<img width="778" height="639" alt="Screenshot 2026-01-17 001037" src="https://github.com/user-attachments/assets/dc9ee95b-b228-4dd1-9d5b-da41a7546a8d" />
+
+</p>
+
+<p>
+<img width="289" height="659" alt="Screenshot 2026-01-17 001058" src="https://github.com/user-attachments/assets/53fabc1a-5a51-49eb-8a07-ffc69f856ebb" />
+
+</p>
+
+<p>
+<img width="762" height="617" alt="Screenshot 2026-01-17 001115" src="https://github.com/user-attachments/assets/6b539a34-f269-43b3-a93f-3d3f5a8287c7" />
+
+</p>
+
+<p>
+<img width="780" height="404" alt="Screenshot 2026-01-17 001125" src="https://github.com/user-attachments/assets/51336414-65fc-44f7-9265-1b777d19d3c1" />
+
+</p>
+
+<p>
+<img width="779" height="449" alt="Screenshot 2026-01-17 001136" src="https://github.com/user-attachments/assets/5c317f40-62df-44df-b3ec-9afe912c647d" />
+
+</p>
+
+<p>
+<img width="1345" height="578" alt="Screenshot 2026-01-17 001226" src="https://github.com/user-attachments/assets/56bd2a7a-f07f-4cef-a03f-df2bf12f0031" />
+
+</p>
+
+<p>
+<img width="779" height="421" alt="Screenshot 2026-01-17 001240" src="https://github.com/user-attachments/assets/9ef61ada-5d08-48ef-9fbc-8fb9be9b5ed7" />
+
+</p>
+
+<p>
+<img width="599" height="585" alt="Screenshot 2026-01-17 001326" src="https://github.com/user-attachments/assets/8202e2d9-e1db-4774-bcc9-e75c3067910a" />
+
+</p>
+
+<p>
+<img width="778" height="366" alt="Screenshot 2026-01-17 001340" src="https://github.com/user-attachments/assets/8a39ea21-f156-4d98-a359-743d15262eab" />
+
+</p>
+
+<p>
+<img width="1250" height="695" alt="Screenshot 2026-01-17 001435" src="https://github.com/user-attachments/assets/04f24b96-8353-441b-88a5-baaa7d4192bf" />
+
+</p>
+
+<p>
+<img width="229" height="262" alt="Screenshot 2026-01-17 001442" src="https://github.com/user-attachments/assets/6ba8acdf-6542-4312-9004-5fd6e9af3158" />
+
+</p>
+
+<p>
+<img width="215" height="313" alt="Screenshot 2026-01-17 001451" src="https://github.com/user-attachments/assets/ab20eb05-f57e-4c3f-afa0-5e01911862c6" />
+
+</p>
+<br />
+
+
+<p>
+
+<h3>Step 8: Enable PHP Extensions</h3> 
+
+- In IIS Manager, navigate to Sites > Default Web Site > osTicket.
+- Open PHP Manager > Enable or disable an extension.
+- Enable the following: php_imap.dll, php_intl.dll, and php_opcache.dll
+</p>
+<br />
+
+<p>
+<img width="1043" height="432" alt="Screenshot 2026-01-17 001558" src="https://github.com/user-attachments/assets/5714a931-b6bd-445d-ae05-473412b124fb" />
+
+</p>
+
+<p>
+<img width="1262" height="393" alt="Screenshot 2026-01-17 001623" src="https://github.com/user-attachments/assets/0036b969-79ff-4c71-be60-562fbc8c5182" />
+
+</p>
+
+<p>
+<img width="845" height="761" alt="Screenshot 2026-01-17 001641" src="https://github.com/user-attachments/assets/149b8569-14f2-4cb3-be20-0685737a10c3" />
+
+</p>
+
+<p>
+<img width="1267" height="503" alt="Screenshot 2026-01-17 002105" src="https://github.com/user-attachments/assets/36b3c53a-427c-4343-9d8a-85da3a5b306c" />
+
+</p>
+
+<p>
+<img width="920" height="660" alt="Screenshot 2026-01-17 002124" src="https://github.com/user-attachments/assets/7d909a73-9661-44f9-bbad-596bb86871db" />
+
+</p>
+
+<p>
+<img width="661" height="652" alt="Screenshot 2026-01-17 002211" src="https://github.com/user-attachments/assets/bd4fdc9a-9a06-440e-84fc-edee4922774a" />
+
+</p>
+
+<p>
+<img width="373" height="209" alt="Screenshot 2026-01-17 002241" src="https://github.com/user-attachments/assets/66f9f245-48b7-4f3f-b935-1fec05646a9e" />
+
+</p>
+
+<p>
+<img width="307" height="159" alt="Screenshot 2026-01-17 002301" src="https://github.com/user-attachments/assets/cb108510-3bab-4b6c-88da-66e431084b31" />
+
+</p>
+
+<p>
+<img width="350" height="195" alt="Screenshot 2026-01-17 002332" src="https://github.com/user-attachments/assets/e3a7b62e-f3a5-4f25-9857-0667b3d4fbfd" />
+
+</p>
+
+<p>
+<img width="840" height="752" alt="Screenshot 2026-01-17 002426" src="https://github.com/user-attachments/assets/a379ae36-93de-43c4-b815-a216943260d5" />
+
+</p>
+<br />
+
+
+<p>
+
+<h3>Step 9: Configure ost-config.php Permissions</h3>   
+
+- Navigate to C:\inetpub\wwwroot\osTicket\include\.
+- Rename ost-sampleconfig.php to ost-config.php.
+- Right-click ost-config.php > Properties > Security > Advanced.
+- Click Disable inheritance > Remove all inherited permissions.
+- Click Add > Select a principal > type "Everyone" > Give Full control
+
+</p>
+<br />
+
+<p>
+<img width="312" height="665" alt="Screenshot 2026-01-17 002521" src="https://github.com/user-attachments/assets/d4475e3b-50ac-45d5-a6a5-6f79b95ce362" />
+
+</p>
+
+<p>
+<img width="732" height="554" alt="Screenshot 2026-01-17 002538" src="https://github.com/user-attachments/assets/c030e295-9dda-4a3e-9b19-111f197d197c" />
+
+</p>
+
+<p>
+<img width="603" height="563" alt="Screenshot 2026-01-17 002550" src="https://github.com/user-attachments/assets/0abc0551-8750-4bd4-b88b-afc3a74c485a" />
+
+</p>
+
+<p>
+<img width="587" height="546" alt="Screenshot 2026-01-17 002600" src="https://github.com/user-attachments/assets/54feab4d-3a39-471f-97f7-e967da726ea4" />
+
+</p>
+
+<p>
+<img width="592" height="527" alt="Screenshot 2026-01-17 002628" src="https://github.com/user-attachments/assets/99c90cd6-e5dd-4051-82bf-6a57de0047f6" />
+
+</p>
+
+<p>
+<img width="586" height="553" alt="Screenshot 2026-01-17 002643" src="https://github.com/user-attachments/assets/e19e8499-84da-463c-bbe1-4072c65fcdff" />
+
+</p>
+
+<p>
+<img width="587" height="359" alt="Screenshot 2026-01-17 002856" src="https://github.com/user-attachments/assets/9e088187-e296-4293-9e2c-f54303b0eaf4" />
+
+</p>
+
+<p>
+<img width="523" height="229" alt="Screenshot 2026-01-17 002926" src="https://github.com/user-attachments/assets/8c7b3a60-7faa-4a98-8cc8-31b6bdbb1691" />
+
+</p>
+
+<p>
+<img width="510" height="321" alt="Screenshot 2026-01-17 003011" src="https://github.com/user-attachments/assets/6b3c503d-0862-4e77-9248-cc6c5efcffd2" />
+
+</p>
+
+<p>
+<img width="401" height="530" alt="Screenshot 2026-01-17 003034" src="https://github.com/user-attachments/assets/bcbc5155-07b2-4e8c-b71e-9d8fa6add751" />
+
+</p>
+
+<p>
+<img width="782" height="519" alt="Screenshot 2026-01-17 003105" src="https://github.com/user-attachments/assets/7cd206dd-2eb9-4997-aabd-6bc831801239" />
+
+</p>
+
+<p>
+<img width="538" height="283" alt="Screenshot 2026-01-17 003116" src="https://github.com/user-attachments/assets/9367503c-8298-4e59-98ea-e3a8c1d3cd65" />
+
+</p>
+
+<p>
+<img width="780" height="527" alt="Screenshot 2026-01-17 003125" src="https://github.com/user-attachments/assets/7631adc6-26e1-49b2-a575-4ff5eaefb45b" />
+
+</p>
+
+<p>
+<img width="940" height="603" alt="Screenshot 2026-01-17 003147" src="https://github.com/user-attachments/assets/f2fd2ab9-4ddc-42e3-84b8-cee6cbb00cc8" />
+
+</p>
+
+<p>
+<img width="481" height="296" alt="Screenshot 2026-01-17 003210" src="https://github.com/user-attachments/assets/92e0a7c7-cd2d-4960-bd4a-b5871c88c37e" />
+
+</p>
+
+<p>
+<img width="920" height="592" alt="Screenshot 2026-01-17 003238" src="https://github.com/user-attachments/assets/d044ed46-7c9d-4083-8706-21f74eef0cc4" />
+
+</p>
+
+<p>
+<img width="773" height="527" alt="Screenshot 2026-01-17 003246" src="https://github.com/user-attachments/assets/86ec0adf-4973-4284-8a55-91a8a1ab55d0" />
+
+</p>
+<br />
+
+<p>
+
+<h2>Phase 5: Database and Final Setup</h2>
+</p>
+
+<h3>Step 10: Create Database via HeidiSQL</h3> 
+
+
+- Install and open HeidiSQL.
+- Create a new session using root / root.
+- Right-click the session > Create new > Database.
+- Name the database osTicket
+</p>
+<br />
+
+<p>
+<img width="835" height="742" alt="Screenshot 2026-01-17 003326" src="https://github.com/user-attachments/assets/38d857c0-afb5-422b-bb8c-1a54e1ec4ed6" />
+
+</p>
+
+<p>
+<img width="851" height="856" alt="Screenshot 2026-01-17 003541" src="https://github.com/user-attachments/assets/e72d2638-2d13-49bf-9015-4f2ff76f37dd" />
+
+</p>
+
+<p>
+<img width="267" height="642" alt="Screenshot 2026-01-17 003701" src="https://github.com/user-attachments/assets/dd9fd69e-bbb6-414d-994f-f39f2b14bcbc" />
+
+</p>
+
+<p>
+<img width="713" height="570" alt="Screenshot 2026-01-17 003721" src="https://github.com/user-attachments/assets/b01597fa-65cb-4255-addf-a6c41440fa48" />
+
+</p>
+
+<p>
+<img width="709" height="502" alt="Screenshot 2026-01-17 003741" src="https://github.com/user-attachments/assets/266d6241-686b-4294-a601-639cf65b34e5" />
+
+</p>
+
+<p>
+<img width="604" height="468" alt="Screenshot 2026-01-17 003852" src="https://github.com/user-attachments/assets/08ec4e14-5267-48ce-9287-ac7083d4764f" />
+
+</p>
+
+<p>
+<img width="691" height="488" alt="Screenshot 2026-01-17 003947" src="https://github.com/user-attachments/assets/6956b69f-59fe-47de-8ce0-990f57128760" />
+
+</p>
+
+<p>
+<img width="701" height="487" alt="Screenshot 2026-01-17 004014" src="https://github.com/user-attachments/assets/e7a8a625-1443-4fea-b8fc-09f1ab3db530" />
+
+</p>
+
+<p>
+<img width="949" height="603" alt="Screenshot 2026-01-17 004105" src="https://github.com/user-attachments/assets/e9eefad3-a9d9-46cf-b72d-aa700b3aa174" />
+
+</p>
+
+<p>
+<img width="947" height="599" alt="Screenshot 2026-01-17 004137" src="https://github.com/user-attachments/assets/1f01b9bc-317e-4088-8628-8e8e0195b1fd" />
+
+</p>
+<br />
+
+<h3>Step 11: Run osTicket Web Installer</h3>   
+
+- Open a browser and go to http://localhost/osTicket.
+- Fill out the System Settings and Admin User info.
+- Under Database Settings, use:
+  1.  MySQL Database: osTicket
+  2.  MySQL Username: root
+  3.  MySQL Password: root
+- Click Install Now
+</p>
+<br />
+
+<p>
+<img width="870" height="807" alt="Screenshot 2026-01-17 004244" src="https://github.com/user-attachments/assets/354d4797-7960-4642-95e4-8756ee9fcf8c" />
+
+</p>
+<br />
+
+<h3>Step 12: Verification</h3>  
+
+- Staff Control Panel: http://localhost/osTicket/scp/login.php
+- End User Portal: http://localhost/osTicket/
+</p>
+<br />
+
+<p>
+<img width="851" height="658" alt="Screenshot 2026-01-17 004321" src="https://github.com/user-attachments/assets/9c724969-1f3b-4ff7-b399-4ddcdf70f0c6" />
+
+</p>
+<br />
 
