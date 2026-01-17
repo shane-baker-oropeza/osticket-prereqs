@@ -769,3 +769,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />  
 
+<h3>This project demonstrates the successful deployment of a fully functional help desk ticketing system in a cloud-based Windows environment. It highlights practical skills in system administration, web server configuration, database setup, and IT documentation—skills that directly align with real-world Help Desk and IT Support roles.</h3>
