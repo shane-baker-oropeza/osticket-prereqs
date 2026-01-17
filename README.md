@@ -226,74 +226,77 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Select your server, open PHP Manager, and click Register new PHP version.
 - Select C:\PHP\php-cgi.exe.
 - Restart IIS (Select server in left pane > Restart in right pane)
-- From the “osTicket-Installation-Files” folder install the Rewrite Module
-  (rewrite_amd64_en-US.msi)
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="290" height="490" alt="Screenshot 2026-01-16 235141" src="https://github.com/user-attachments/assets/9abfc8bb-a079-4006-8129-a1643990f826" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="795" height="647" alt="Screenshot 2026-01-16 235219" src="https://github.com/user-attachments/assets/bd96f365-c571-4f10-af64-cd338075ec3b" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="810" height="721" alt="Screenshot 2026-01-16 235235" src="https://github.com/user-attachments/assets/38409a4b-1d5a-4255-82b4-8bf9e3090772" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="801" height="655" alt="Screenshot 2026-01-16 235254" src="https://github.com/user-attachments/assets/49c86ec4-f320-4546-80fa-1ca7262e4d04" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="730" height="617" alt="Screenshot 2026-01-16 235421" src="https://github.com/user-attachments/assets/8d189a66-083e-4877-ad45-9dd1a424958b" />
+
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="606" height="445" alt="Screenshot 2026-01-16 235519" src="https://github.com/user-attachments/assets/fdd390d3-c191-4c52-abd1-52384d125dc0" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="859" height="675" alt="Screenshot 2026-01-17 000324" src="https://github.com/user-attachments/assets/428539b9-8d45-4693-b10a-bb38102b45b3" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1111" height="527" alt="Screenshot 2026-01-17 000426" src="https://github.com/user-attachments/assets/ad991cc5-6bdb-48fb-8fdc-86b0bc9017db" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="971" height="520" alt="Screenshot 2026-01-17 000438" src="https://github.com/user-attachments/assets/7ec8d5ce-1724-4107-b122-cf5be8aa4741" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="522" height="236" alt="Screenshot 2026-01-17 000544" src="https://github.com/user-attachments/assets/01a73e1e-8d03-4647-bdf8-3da16f427bf2" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1320" height="500" alt="Screenshot 2026-01-17 000620" src="https://github.com/user-attachments/assets/71b74470-5391-46a8-bc85-098edfb8296c" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="243" height="344" alt="Screenshot 2026-01-17 000632" src="https://github.com/user-attachments/assets/cdce3ace-31b9-437e-813d-86c8ea678388" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="226" height="359" alt="Screenshot 2026-01-17 000640" src="https://github.com/user-attachments/assets/2f92f904-1244-49b3-b308-2079fe3b1c5f" />
+
 </p>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-
+<br />
 
 <h3>Step 6: Install and Configure MySQL</h3>  
 
@@ -306,42 +309,45 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="796" height="435" alt="Screenshot 2026-01-16 235719" src="https://github.com/user-attachments/assets/42caf90c-840d-4727-a235-abece302dc1f" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="513" height="403" alt="Screenshot 2026-01-16 235813" src="https://github.com/user-attachments/assets/bcf88e9a-8173-4821-aea6-8c4ca2fdb3fc" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="515" height="408" alt="Screenshot 2026-01-16 235845" src="https://github.com/user-attachments/assets/20f75612-82ff-4a1d-b426-ef0f5dbe7703" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="525" height="395" alt="Screenshot 2026-01-16 235916" src="https://github.com/user-attachments/assets/73aeaa8c-56a1-4051-9833-0ee0df1ee6ee" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="520" height="399" alt="Screenshot 2026-01-16 235927" src="https://github.com/user-attachments/assets/f347780f-a333-4cff-912f-2eaefeccc1d1" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="520" height="392" alt="Screenshot 2026-01-16 235956" src="https://github.com/user-attachments/assets/6c2d67f0-1adc-4ad8-84bf-64d2fbf0088e" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="515" height="389" alt="Screenshot 2026-01-17 000015" src="https://github.com/user-attachments/assets/1676bc49-5549-419c-8c6b-e6c3b773f5ad" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="517" height="395" alt="Screenshot 2026-01-17 000223" src="https://github.com/user-attachments/assets/35a1614b-62ec-42b9-b729-97433e2ae85c" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
 <br />
 
 <h2>Phase 4: osTicket Deployment</h2>
@@ -358,8 +364,77 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="803" height="659" alt="Screenshot 2026-01-17 000801" src="https://github.com/user-attachments/assets/fc34d3ba-1ea6-4c3a-8abd-c7541a60aab9" />
+
 </p>
+
+<p>
+<img width="624" height="457" alt="Screenshot 2026-01-17 000813" src="https://github.com/user-attachments/assets/a293c3e3-c260-47ff-aa76-a9f3d2a28575" />
+
+</p>
+
+<p>
+<img width="778" height="639" alt="Screenshot 2026-01-17 001037" src="https://github.com/user-attachments/assets/dc9ee95b-b228-4dd1-9d5b-da41a7546a8d" />
+
+</p>
+
+<p>
+<img width="289" height="659" alt="Screenshot 2026-01-17 001058" src="https://github.com/user-attachments/assets/53fabc1a-5a51-49eb-8a07-ffc69f856ebb" />
+
+</p>
+
+<p>
+<img width="762" height="617" alt="Screenshot 2026-01-17 001115" src="https://github.com/user-attachments/assets/6b539a34-f269-43b3-a93f-3d3f5a8287c7" />
+
+</p>
+
+<p>
+<img width="780" height="404" alt="Screenshot 2026-01-17 001125" src="https://github.com/user-attachments/assets/51336414-65fc-44f7-9265-1b777d19d3c1" />
+
+</p>
+
+<p>
+<img width="779" height="449" alt="Screenshot 2026-01-17 001136" src="https://github.com/user-attachments/assets/5c317f40-62df-44df-b3ec-9afe912c647d" />
+
+</p>
+
+<p>
+<img width="1345" height="578" alt="Screenshot 2026-01-17 001226" src="https://github.com/user-attachments/assets/56bd2a7a-f07f-4cef-a03f-df2bf12f0031" />
+
+</p>
+
+<p>
+<img width="779" height="421" alt="Screenshot 2026-01-17 001240" src="https://github.com/user-attachments/assets/9ef61ada-5d08-48ef-9fbc-8fb9be9b5ed7" />
+
+</p>
+
+<p>
+<img width="599" height="585" alt="Screenshot 2026-01-17 001326" src="https://github.com/user-attachments/assets/8202e2d9-e1db-4774-bcc9-e75c3067910a" />
+
+</p>
+
+<p>
+<img width="778" height="366" alt="Screenshot 2026-01-17 001340" src="https://github.com/user-attachments/assets/8a39ea21-f156-4d98-a359-743d15262eab" />
+
+</p>
+
+<p>
+<img width="1250" height="695" alt="Screenshot 2026-01-17 001435" src="https://github.com/user-attachments/assets/04f24b96-8353-441b-88a5-baaa7d4192bf" />
+
+</p>
+
+<p>
+<img width="229" height="262" alt="Screenshot 2026-01-17 001442" src="https://github.com/user-attachments/assets/6ba8acdf-6542-4312-9004-5fd6e9af3158" />
+
+</p>
+
+<p>
+<img width="215" height="313" alt="Screenshot 2026-01-17 001451" src="https://github.com/user-attachments/assets/ab20eb05-f57e-4c3f-afa0-5e01911862c6" />
+
+</p>
+<br />
+
+
 <p>
 
 <h3>Step 8: Enable PHP Extensions</h3> 
@@ -371,8 +446,57 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1043" height="432" alt="Screenshot 2026-01-17 001558" src="https://github.com/user-attachments/assets/5714a931-b6bd-445d-ae05-473412b124fb" />
+
 </p>
+
+<p>
+<img width="1262" height="393" alt="Screenshot 2026-01-17 001623" src="https://github.com/user-attachments/assets/0036b969-79ff-4c71-be60-562fbc8c5182" />
+
+</p>
+
+<p>
+<img width="845" height="761" alt="Screenshot 2026-01-17 001641" src="https://github.com/user-attachments/assets/149b8569-14f2-4cb3-be20-0685737a10c3" />
+
+</p>
+
+<p>
+<img width="1267" height="503" alt="Screenshot 2026-01-17 002105" src="https://github.com/user-attachments/assets/36b3c53a-427c-4343-9d8a-85da3a5b306c" />
+
+</p>
+
+<p>
+<img width="920" height="660" alt="Screenshot 2026-01-17 002124" src="https://github.com/user-attachments/assets/7d909a73-9661-44f9-bbad-596bb86871db" />
+
+</p>
+
+<p>
+<img width="661" height="652" alt="Screenshot 2026-01-17 002211" src="https://github.com/user-attachments/assets/bd4fdc9a-9a06-440e-84fc-edee4922774a" />
+
+</p>
+
+<p>
+<img width="373" height="209" alt="Screenshot 2026-01-17 002241" src="https://github.com/user-attachments/assets/66f9f245-48b7-4f3f-b935-1fec05646a9e" />
+
+</p>
+
+<p>
+<img width="307" height="159" alt="Screenshot 2026-01-17 002301" src="https://github.com/user-attachments/assets/cb108510-3bab-4b6c-88da-66e431084b31" />
+
+</p>
+
+<p>
+<img width="350" height="195" alt="Screenshot 2026-01-17 002332" src="https://github.com/user-attachments/assets/e3a7b62e-f3a5-4f25-9857-0667b3d4fbfd" />
+
+</p>
+
+<p>
+<img width="840" height="752" alt="Screenshot 2026-01-17 002426" src="https://github.com/user-attachments/assets/a379ae36-93de-43c4-b815-a216943260d5" />
+
+</p>
+<br />
+
+
 <p>
 
 <h3>Step 9: Configure ost-config.php Permissions</h3>   
@@ -387,8 +511,47 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
+<img width="312" height="665" alt="Screenshot 2026-01-17 002521" src="https://github.com/user-attachments/assets/d4475e3b-50ac-45d5-a6a5-6f79b95ce362" />
+
+</p>
+
+<p>
+<img width="732" height="554" alt="Screenshot 2026-01-17 002538" src="https://github.com/user-attachments/assets/c030e295-9dda-4a3e-9b19-111f197d197c" />
+
+</p>
+
+<p>
+<img width="603" height="563" alt="Screenshot 2026-01-17 002550" src="https://github.com/user-attachments/assets/0abc0551-8750-4bd4-b88b-afc3a74c485a" />
+
+</p>
+
+<p>
+<img width="587" height="546" alt="Screenshot 2026-01-17 002600" src="https://github.com/user-attachments/assets/54feab4d-3a39-471f-97f7-e967da726ea4" />
+
+</p>
+
+<p>
+<img width="592" height="527" alt="Screenshot 2026-01-17 002628" src="https://github.com/user-attachments/assets/99c90cd6-e5dd-4051-82bf-6a57de0047f6" />
+
+</p>
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
 <p>
 
 <h2>Phase 5: Database and Final Setup</h2>
@@ -407,6 +570,40 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
 <p>
 
 <h3>Step 11: Run osTicket Web Installer</h3>   
@@ -424,6 +621,36 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
 <p>
 
 <h3>Step 12: Verification</h3>  
@@ -436,6 +663,36 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
 <p>
 
 
