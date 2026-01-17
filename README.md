@@ -192,30 +192,31 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="266" height="190" alt="Screenshot 2026-01-16 234846" src="https://github.com/user-attachments/assets/c68c59fa-98eb-40fb-bb2a-91808b3e46fa" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="817" height="481" alt="Screenshot 2026-01-16 234853" src="https://github.com/user-attachments/assets/66c21dd5-e068-4eee-96a8-ad2da97288f5" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="823" height="410" alt="Screenshot 2026-01-16 234901" src="https://github.com/user-attachments/assets/b53b9788-a9c8-4fa1-82fe-a8d24a338e13" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="783" height="394" alt="Screenshot 2026-01-16 235011" src="https://github.com/user-attachments/assets/68abb21b-a42f-4d04-8441-f5b3f85ece72" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="791" height="492" alt="Screenshot 2026-01-16 235640" src="https://github.com/user-attachments/assets/92036652-cb8f-4fd6-aba8-649476bff3d3" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+<br />
 
 <h3>Step 5: Configure PHP 7.3.8</h3>  
 
