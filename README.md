@@ -77,7 +77,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 - Connect to the VM using Remote Desktop Connection.
-- Download the osTicket-Installation-Files.zip within the VM.
+- Download the [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) within the VM.
 - Unzip the folder to your Desktop
 
 </p>
