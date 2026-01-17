@@ -39,32 +39,34 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <br />  
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1421" height="773" alt="Screenshot 2026-01-16 232806" src="https://github.com/user-attachments/assets/0db579c2-368e-42fb-b65d-2df1ba0a5c77" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="873" height="767" alt="Screenshot 2026-01-16 232846" src="https://github.com/user-attachments/assets/061e40eb-28e2-42b3-aca8-2dc7009b1371" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="971" height="878" alt="Screenshot 2026-01-16 232927" src="https://github.com/user-attachments/assets/9a131917-541a-4a67-a2b4-b0982ac7c1aa" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="869" height="785" alt="Screenshot 2026-01-16 232942" src="https://github.com/user-attachments/assets/42a4c9c4-ae6b-4bfb-b104-a4a6c8b0eb20" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="881" height="806" alt="Screenshot 2026-01-16 233004" src="https://github.com/user-attachments/assets/36606530-0378-4534-aa81-cc0e27a613a2" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="770" height="806" alt="Screenshot 2026-01-16 233033" src="https://github.com/user-attachments/assets/87acee00-2818-4c2e-82bf-32e0b8ccd39d" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />  
@@ -82,40 +84,49 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1639" height="572" alt="Screenshot 2026-01-16 233327" src="https://github.com/user-attachments/assets/0ab0d8a8-1400-4f2c-adb2-b316148112b9" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="433" height="248" alt="Screenshot 2026-01-16 233423" src="https://github.com/user-attachments/assets/c8aeace5-ee97-427d-bbd6-c146dbcf6eaf" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="412" height="496" alt="Screenshot 2026-01-16 233531" src="https://github.com/user-attachments/assets/a8a98ac0-6ec6-42bd-a26f-7dc54b385b73" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1095" height="453" alt="Screenshot 2026-01-16 233806" src="https://github.com/user-attachments/assets/987f7024-7808-45a4-ac94-99b99d6bcfbd" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="579" height="252" alt="Screenshot 2026-01-16 233817" src="https://github.com/user-attachments/assets/8adf0185-f831-4da3-a6ab-3e6a69f730c0" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="840" height="538" alt="Screenshot 2026-01-16 233935" src="https://github.com/user-attachments/assets/b164c523-b01a-488e-9f08-e742e7d9c4c3" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="855" height="672" alt="Screenshot 2026-01-16 234009" src="https://github.com/user-attachments/assets/733ff052-d844-4fd3-8926-3ad0372f96c4" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="396" height="479" alt="Screenshot 2026-01-16 234058" src="https://github.com/user-attachments/assets/3d432dbd-f635-4ffa-bf26-110be44eeb8d" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="672" height="520" alt="Screenshot 2026-01-16 234119" src="https://github.com/user-attachments/assets/ab4523fb-46d5-4c3a-8fff-96fe9abbe434" />
+
 </p>
 
 <h3>Step 3: Enable Internet Information Services (IIS)</h3>  
@@ -131,28 +142,34 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="822" height="689" alt="Screenshot 2026-01-16 234441" src="https://github.com/user-attachments/assets/900d5be0-1b78-4eb7-bc18-62c76142779f" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="985" height="541" alt="Screenshot 2026-01-16 234504" src="https://github.com/user-attachments/assets/0e463ecf-8e16-42da-9822-bbdcc15f2cec" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1148" height="457" alt="Screenshot 2026-01-16 234521" src="https://github.com/user-attachments/assets/5916d2d5-2c9a-4c73-9b4f-4b2b27efbbc3" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="442" height="381" alt="Screenshot 2026-01-16 234559" src="https://github.com/user-attachments/assets/d26051e7-b066-42c4-a364-edbf4b89e3eb" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="442" height="385" alt="Screenshot 2026-01-16 234637" src="https://github.com/user-attachments/assets/b46ae479-b3b2-4aa0-b808-d5b9f1994a84" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="430" height="381" alt="Screenshot 2026-01-16 234653" src="https://github.com/user-attachments/assets/c064814e-31f2-49e1-a17a-b6003bf2cac7" />
+
 </p>
 
 <br />
