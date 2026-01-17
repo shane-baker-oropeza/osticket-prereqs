@@ -536,21 +536,67 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="586" height="553" alt="Screenshot 2026-01-17 002643" src="https://github.com/user-attachments/assets/e19e8499-84da-463c-bbe1-4072c65fcdff" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="587" height="359" alt="Screenshot 2026-01-17 002856" src="https://github.com/user-attachments/assets/9e088187-e296-4293-9e2c-f54303b0eaf4" />
+
+
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="523" height="229" alt="Screenshot 2026-01-17 002926" src="https://github.com/user-attachments/assets/8c7b3a60-7faa-4a98-8cc8-31b6bdbb1691" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="510" height="321" alt="Screenshot 2026-01-17 003011" src="https://github.com/user-attachments/assets/6b3c503d-0862-4e77-9248-cc6c5efcffd2" />
+
 </p>
 
+<p>
+<img width="401" height="530" alt="Screenshot 2026-01-17 003034" src="https://github.com/user-attachments/assets/bcbc5155-07b2-4e8c-b71e-9d8fa6add751" />
+
+</p>
+
+<p>
+<img width="782" height="519" alt="Screenshot 2026-01-17 003105" src="https://github.com/user-attachments/assets/7cd206dd-2eb9-4997-aabd-6bc831801239" />
+
+</p>
+
+<p>
+<img width="538" height="283" alt="Screenshot 2026-01-17 003116" src="https://github.com/user-attachments/assets/9367503c-8298-4e59-98ea-e3a8c1d3cd65" />
+
+</p>
+
+<p>
+<img width="780" height="527" alt="Screenshot 2026-01-17 003125" src="https://github.com/user-attachments/assets/7631adc6-26e1-49b2-a575-4ff5eaefb45b" />
+
+</p>
+
+<p>
+<img width="940" height="603" alt="Screenshot 2026-01-17 003147" src="https://github.com/user-attachments/assets/f2fd2ab9-4ddc-42e3-84b8-cee6cbb00cc8" />
+
+</p>
+
+<p>
+<img width="481" height="296" alt="Screenshot 2026-01-17 003210" src="https://github.com/user-attachments/assets/92e0a7c7-cd2d-4960-bd4a-b5871c88c37e" />
+
+</p>
+
+<p>
+<img width="920" height="592" alt="Screenshot 2026-01-17 003238" src="https://github.com/user-attachments/assets/d044ed46-7c9d-4083-8706-21f74eef0cc4" />
+
+</p>
+
+<p>
+<img width="773" height="527" alt="Screenshot 2026-01-17 003246" src="https://github.com/user-attachments/assets/86ec0adf-4973-4284-8a55-91a8a1ab55d0" />
+
+</p>
+<br />
 
 <p>
 
@@ -568,35 +614,42 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="835" height="742" alt="Screenshot 2026-01-17 003326" src="https://github.com/user-attachments/assets/38d857c0-afb5-422b-bb8c-1a54e1ec4ed6" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="851" height="856" alt="Screenshot 2026-01-17 003541" src="https://github.com/user-attachments/assets/e72d2638-2d13-49bf-9015-4f2ff76f37dd" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="267" height="642" alt="Screenshot 2026-01-17 003701" src="https://github.com/user-attachments/assets/dd9fd69e-bbb6-414d-994f-f39f2b14bcbc" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="713" height="570" alt="Screenshot 2026-01-17 003721" src="https://github.com/user-attachments/assets/b01597fa-65cb-4255-addf-a6c41440fa48" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="709" height="502" alt="Screenshot 2026-01-17 003741" src="https://github.com/user-attachments/assets/266d6241-686b-4294-a601-639cf65b34e5" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="604" height="468" alt="Screenshot 2026-01-17 003852" src="https://github.com/user-attachments/assets/08ec4e14-5267-48ce-9287-ac7083d4764f" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="691" height="488" alt="Screenshot 2026-01-17 003947" src="https://github.com/user-attachments/assets/6956b69f-59fe-47de-8ce0-990f57128760" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <p>
